@@ -2,14 +2,7 @@
 
 👀  I am currently looking to take on challenging and fun opportunities as a developer. I love solving problems and bringing web applications to life. 
 
-🏅 Through my experiences as a fellow at General Assembly, I have learned how to build full-stack applications with:
-- React
-- MongoDB
-- Express
-- Mongoose
-- Ruby
-- Rails
-- Axios
+🏅 Through my experiences as a fellow at General Assembly, I have learned how to build full-stack applications with MERN stack
 
 🌱  I’m currently learning Ruby on Rails
 
