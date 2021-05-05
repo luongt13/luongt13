@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Ruby on Rails
 - 💬 Ask me about my journey to becoming a software engineer
 - 📫 Let's connect: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
 - 😄 Pronouns: she/her
