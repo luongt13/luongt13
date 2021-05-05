@@ -2,11 +2,18 @@
 
 👀  I am currently looking to take on challenging and fun opportunities as a developer. I love solving problems and bringing web applications to life. 
 
-🏅 Through my experiences as a fellow at General Assembly, I have learned how to build full-stack applications with JavaScript, MongoDB, Express, Mongoose, Ruby, Rails, Axios.
+🏅 Through my experiences as a fellow at General Assembly, I have learned how to build full-stack applications with:
+- React
+- MongoDB
+- Express
+- Mongoose
+- Ruby
+- Rails
+- Axios
 
 🌱  I’m currently learning Ruby on Rails
 
-💬  Ask me about my journey in becoming a software engineer
+💬  Ask me about my journey switching from being a Dietitian to becoming a Software Engineer 
 
 📫  Let's connect: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
  
