@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hi, I'm Tran Luong
 
-👀  I am currently looking to take on challenging and fun opportunities as a developer. I love solving problems and bringing web applications to life. 
+#### I am seeking for opportunities as a Software Enginner
 
-🏅 Through my experiences as a fellow at General Assembly, I have learned how to build full-stack applications with MERN stack
-
-🌱  I’m currently learning Ruby on Rails
-
-💬  Ask me about my journey switching from being a Dietitian to becoming a Software Engineer 
-
-📫  Let's connect: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
- 
-😄  Pronouns: she/her
-
-⚡ Fun fact: 	🌄 nature explorer 🍜 recipe creator
+- 🏅  As a fellow at General Assembly, I have learned how to build full-stack applications with MERN stack
+- 🌱  I’m currently learning Ruby on Rails
+- 📫  Let's connect on LinkedIn: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
+- 😄  Pronouns: she/her
 
 <!--
 **luongt13/luongt13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
