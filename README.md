@@ -12,6 +12,7 @@
  
 😄  Pronouns: she/her
 
+⚡ Fun fact: 	🌄 nature explorer 🍜 recipe creator
 
 <!--
 **luongt13/luongt13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
