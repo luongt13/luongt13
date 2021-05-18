@@ -1,6 +1,6 @@
 ### Hi, I'm Tran Luong
 
-#### I am seeking for opportunities as a Software Enginner
+#### I am seeking for opportunities as a Software Engineer
 
 - 🏅  As a fellow at General Assembly, I have learned how to build full-stack applications with MERN stack
 - 🌱  I’m currently learning Ruby on Rails
