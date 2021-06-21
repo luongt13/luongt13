@@ -1,10 +1,10 @@
 ### Hi, I'm Tran Luong
 
-#### I am seeking for opportunities as a Software Engineer
+#### I am an Application Engineer at Crosscut
 
-- 🏅  As a fellow at General Assembly, I have learned how to build full-stack applications with MERN stack
-- 🌱  I’m currently learning Ruby on Rails
+- 🌱  I’m currently learning Vue
 - 📫  Let's connect on LinkedIn: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
+- 🏅  As a fellow at General Assembly, I have learned how to build full-stack applications with MERN stack
 - 😄  Pronouns: she/her
 
 <!--
