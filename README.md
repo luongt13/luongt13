@@ -2,9 +2,8 @@
 
 #### I am an Application Engineer at Crosscut
 
-- 🌱  I’m currently learning Python
+- 🔭 I’m currently working on creating a DHIS2 application
 - 📫  Let's connect on LinkedIn: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
-- 🏅  As a fellow at General Assembly, I have learned how to build full-stack applications with MERN stack
 - 😄  Pronouns: she/her
 
 <!--
