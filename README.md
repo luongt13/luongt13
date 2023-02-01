@@ -2,7 +2,6 @@
 
 #### I am an Software Engineer at Beam Benefits
 
-- 🔭 I’m currently working on creating a DHIS2 application
 - 📫  Let's connect on LinkedIn: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
 - 😄  Pronouns: she/her
 
