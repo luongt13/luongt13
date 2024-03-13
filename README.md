@@ -1,6 +1,6 @@
 ### Hi, I'm Tran Luong
 
-#### I am an Software Engineer at Beam Benefits
+#### I am a Software Engineer at Beam Benefits
 
 - 📫  Let's connect on LinkedIn: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/tran-luong/)
 - 😄  Pronouns: she/her
